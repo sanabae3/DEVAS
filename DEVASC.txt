@@ -1,0 +1,6 @@
+"hi i am about to compleat my DEVAS.txt Training
+this wis exiting
+i will be compleating my training in python simultaneausly
+this file will includ a python script" 
+ print(you are the Best)
+ I am a git master!
